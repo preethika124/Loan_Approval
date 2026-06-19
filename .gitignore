@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+loan_model.pkl
+features.pkl
+threshold.pkl
+
+.env
+
+.ipynb_checkpoints/
