@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+loan-key.pem
 
 loan_model.pkl
 features.pkl
